@@ -1,0 +1,3 @@
+-- AlterTable
+ALTER TABLE "users" ALTER COLUMN "profileImg" SET NOT NULL,
+ALTER COLUMN "profileImg" SET DATA TYPE TEXT;
